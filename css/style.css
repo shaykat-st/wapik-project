@@ -1,0 +1,18 @@
+.benner-section{
+	background-image: url(../images/banner.jpg);
+	background-color: #165855
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+}
+.benner-section .row{min-height: 100vh
+}
+.about-section{
+	background-image: url(../images/perfect-template.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+.about-section .row{
+	min-height: 100vh
+}
